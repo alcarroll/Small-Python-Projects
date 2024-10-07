@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad2040fd-eee2-4d26-a564-a206849871da" name="Changes" comment="Initial commit. Added Bagels, Caesar Cypher, and Caesar Hacker" />
+    <list default="true" id="ad2040fd-eee2-4d26-a564-a206849871da" name="Changes" comment="Added Bagels, Caesar Cypher, and Caesar Hacker" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alcarroll"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/alcarroll/Small-Python-Projects.git",
@@ -75,7 +81,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728343627442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Bagels, Caesar Cypher, and Caesar Hacker">
+      <option name="closed" value="true" />
+      <created>1728343893493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728343893493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Bagels, Caesar Cypher, and Caesar Hacker">
+      <option name="closed" value="true" />
+      <created>1728343946711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728343946711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +106,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -102,8 +129,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Bagels, Caesar Cypher, and Caesar Hacker" />
     <MESSAGE value="Initial commit. Added Bagels, Caesar Cypher, and Caesar Hacker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit. Added Bagels, Caesar Cypher, and Caesar Hacker" />
+    <MESSAGE value="Added Bagels, Caesar Cypher, and Caesar Hacker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Bagels, Caesar Cypher, and Caesar Hacker" />
   </component>
 </project>
